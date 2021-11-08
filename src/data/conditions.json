@@ -2425,7 +2425,7 @@
     },
     {
         "id": 3,
-        "name": "Dystonia rotate L tilt L",
+        "name": "Dystonia",
         "meta": {
             "numberOfPatients": 0,
             "numberOfSessions": 0,
@@ -2692,10 +2692,10 @@
                 "name": "Levator Scapulae",
                 "groupName": "Levator Scapulae",
                 "side": "left",
-                "percentageOfSessionsInjected": 0,
+                "percentageOfSessionsInjected": 99,
                 "botoxAverageDosePerMuscle": 0,
                 "botoxAverageNumberOfSites": 0,
-                "dysportAverageDosePerMuscle": 0,
+                "dysportAverageDosePerMuscle": 170,
                 "dysportAverageNumberOfSites": 0
             },
             {
@@ -2714,10 +2714,10 @@
                 "name": "Longissimus Capitis",
                 "groupName": "Longissimus Capitis",
                 "side": "left",
-                "percentageOfSessionsInjected": 0,
+                "percentageOfSessionsInjected": 11,
                 "botoxAverageDosePerMuscle": 0,
                 "botoxAverageNumberOfSites": 0,
-                "dysportAverageDosePerMuscle": 0,
+                "dysportAverageDosePerMuscle": 77,
                 "dysportAverageNumberOfSites": 0
             },
             {
@@ -2868,10 +2868,10 @@
                 "name": "Obliqus Capitis Inferior",
                 "groupName": "",
                 "side": "left",
-                "percentageOfSessionsInjected": 0,
+                "percentageOfSessionsInjected": 36,
                 "botoxAverageDosePerMuscle": 0,
                 "botoxAverageNumberOfSites": 0,
-                "dysportAverageDosePerMuscle": 0,
+                "dysportAverageDosePerMuscle": 71,
                 "dysportAverageNumberOfSites": 0
             },
             {
@@ -3110,10 +3110,10 @@
                 "name": "Scalene Medius 01",
                 "groupName": "Scalene",
                 "side": "left",
-                "percentageOfSessionsInjected": 0,
+                "percentageOfSessionsInjected": 39,
                 "botoxAverageDosePerMuscle": 0,
                 "botoxAverageNumberOfSites": 0,
-                "dysportAverageDosePerMuscle": 0,
+                "dysportAverageDosePerMuscle": 39,
                 "dysportAverageNumberOfSites": 0
             },
             {
@@ -3187,10 +3187,10 @@
                 "name": "Semispinalis Capitis 01",
                 "groupName": "Semispinalis Capitis",
                 "side": "right",
-                "percentageOfSessionsInjected": 0,
+                "percentageOfSessionsInjected": 6,
                 "botoxAverageDosePerMuscle": 0,
                 "botoxAverageNumberOfSites": 0,
-                "dysportAverageDosePerMuscle": 0,
+                "dysportAverageDosePerMuscle": 59,
                 "dysportAverageNumberOfSites": 0
             },
             {
@@ -3220,10 +3220,10 @@
                 "name": "Splenius Capitis",
                 "groupName": "Splenius Capitis",
                 "side": "left",
-                "percentageOfSessionsInjected": 0,
+                "percentageOfSessionsInjected": 99,
                 "botoxAverageDosePerMuscle": 0,
                 "botoxAverageNumberOfSites": 0,
-                "dysportAverageDosePerMuscle": 0,
+                "dysportAverageDosePerMuscle": 170,
                 "dysportAverageNumberOfSites": 0
             },
             {
@@ -3242,10 +3242,10 @@
                 "name": "Sternocleidomastoid",
                 "groupName": "Sternocleidomastoid",
                 "side": "left",
-                "percentageOfSessionsInjected": 0,
+                "percentageOfSessionsInjected": 78,
                 "botoxAverageDosePerMuscle": 0,
                 "botoxAverageNumberOfSites": 0,
-                "dysportAverageDosePerMuscle": 0,
+                "dysportAverageDosePerMuscle": 103,
                 "dysportAverageNumberOfSites": 0
             },
             {
